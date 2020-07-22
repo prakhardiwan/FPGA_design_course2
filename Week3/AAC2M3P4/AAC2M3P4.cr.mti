@@ -1,0 +1,22 @@
+C:/Users/Prakhar/Desktop/Verilog/AAC2M3P4/AAC2M3P4.v {1 {vlog -work work -stats=none C:/Users/Prakhar/Desktop/Verilog/AAC2M3P4/AAC2M3P4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Majority
+
+Top level modules:
+	Majority
+
+} {} {}} C:/Users/Prakhar/Desktop/Verilog/AAC2M3P4/AAC2M3P4_tb.vp {1 {vlog -work work -stats=none C:/Users/Prakhar/Desktop/Verilog/AAC2M3P4/AAC2M3P4_tb.vp
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module AAC2M3P4_tb
+
+Top level modules:
+	AAC2M3P4_tb
+
+} {} {}} C:/Users/Prakhar/Desktop/Verilog/AAC2M3P3/AAC2M3P4/AAC2M3P4.v {0 {vlog -work work -stats=none C:/Users/Prakhar/Desktop/Verilog/AAC2M3P3/AAC2M3P4/AAC2M3P4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Majority
+** Error: (vlog-13069) C:/Users/Prakhar/Desktop/Verilog/AAC2M3P3/AAC2M3P4/AAC2M3P4.v(46): near "and": syntax error, unexpected and, expecting ';'.
+** Error: (vlog-13069) C:/Users/Prakhar/Desktop/Verilog/AAC2M3P3/AAC2M3P4/AAC2M3P4.v(47): near "and": syntax error, unexpected and, expecting ';'.
+** Error: (vlog-13069) C:/Users/Prakhar/Desktop/Verilog/AAC2M3P3/AAC2M3P4/AAC2M3P4.v(48): near "and": syntax error, unexpected and, expecting ';'.
+
+} {4.0 7.0} {}}
