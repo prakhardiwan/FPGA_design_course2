@@ -1,2 +1,2 @@
-# FPGA_design_course2
+# Hardware Decription Languages for FPGA design
 Hardware Description Languages
