@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vAAC2M4H2_tb
+!s110 1594923157
+!i10b 1
+!s100 j_2`Vfj]V7OZNeUZBElHL0
+IeA44=ze63FaEWOMlHJ`QI1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/Prakhar/Desktop/Verilog/Week4/AAC2M4H2
+w1573400818
+8C:/Users/Prakhar/Desktop/Verilog/Week4/AAC2M4H2/AAC2M4H2_tb.vp
+FC:/Users/Prakhar/Desktop/Verilog/Week4/AAC2M4H2/AAC2M4H2_tb.vp
+L0 65
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1594923157.000000
+!s107 C:/Users/Prakhar/Desktop/Verilog/Week4/AAC2M4H2/AAC2M4H2_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Prakhar/Desktop/Verilog/Week4/AAC2M4H2/AAC2M4H2_tb.vp|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@a@a@c2@m4@h2_tb
+vFIFO8x9
+!s110 1594923150
+!i10b 1
+!s100 T9kG2f6K@jI]jl6S3aIP53
+IThOh[K5^i<mcA;a9Jzghl3
+R0
+R1
+w1594923144
+8C:/Users/Prakhar/Desktop/Verilog/Week4/AAC2M4H2/AAC2M4H2.v
+FC:/Users/Prakhar/Desktop/Verilog/Week4/AAC2M4H2/AAC2M4H2.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1594923150.000000
+!s107 C:/Users/Prakhar/Desktop/Verilog/Week4/AAC2M4H2/AAC2M4H2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Prakhar/Desktop/Verilog/Week4/AAC2M4H2/AAC2M4H2.v|
+!i113 1
+R3
+R4
+n@f@i@f@o8x9
