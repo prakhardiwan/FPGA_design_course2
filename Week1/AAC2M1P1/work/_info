@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+Eaac2m1p1_tb
+Z0 w1573285870
+Z1 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Prakhar/Desktop/VHDL/Week1/AAC2M1P1
+Z6 8C:/Users/Prakhar/Desktop/VHDL/Week1/AAC2M1P1/AAC2M1P1_tb.vhdp
+Z7 FC:/Users/Prakhar/Desktop/VHDL/Week1/AAC2M1P1/AAC2M1P1_tb.vhdp
+l0
+L52
+VJYg2NG8BnOlP:Ta[BeaT?1
+!s100 o_c;zO@o9]4[Q2AMzCkSz0
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1590471535
+!i10b 1
+Z10 !s108 1590471535.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Prakhar/Desktop/VHDL/Week1/AAC2M1P1/AAC2M1P1_tb.vhdp|
+Z12 !s107 C:/Users/Prakhar/Desktop/VHDL/Week1/AAC2M1P1/AAC2M1P1_tb.vhdp|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 11 aac2m1p1_tb 0 22 JYg2NG8BnOlP:Ta[BeaT?1
+l135
+L61
+V>iilV:A51nag`Z_>Y>kiE1
+!s100 ?ej_`=]L:bNOQO]:gTi5H0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ecomparator2
+Z15 w1590471427
+R3
+R4
+R5
+Z16 8C:/Users/Prakhar/Desktop/VHDL/Week1/AAC2M1P1/AAC2M1P1.vhd
+Z17 FC:/Users/Prakhar/Desktop/VHDL/Week1/AAC2M1P1/AAC2M1P1.vhd
+l0
+L40
+V7>K<a7594hM0oK[<N>PMc1
+!s100 jbXW<kjD[_>^?bUXljbbi2
+R8
+32
+Z18 !s110 1590471525
+!i10b 1
+Z19 !s108 1590471525.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Prakhar/Desktop/VHDL/Week1/AAC2M1P1/AAC2M1P1.vhd|
+Z21 !s107 C:/Users/Prakhar/Desktop/VHDL/Week1/AAC2M1P1/AAC2M1P1.vhd|
+!i113 1
+R13
+R14
+Alogic
+R3
+R4
+DEx4 work 11 comparator2 0 22 7>K<a7594hM0oK[<N>PMc1
+l46
+L45
+VEBN2_bIPKjYJ[;UU4kk;P2
+!s100 33mHJAoI8N9V9UQP0k=@I1
+R8
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R13
+R14
